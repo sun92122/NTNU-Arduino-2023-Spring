@@ -13,3 +13,10 @@ plt.bar(x, h,
         width=1, color='k', alpha=0.5, edgecolor='k', linewidth=2)
 plt.xticks(x)
 plt.show()
+
+d = []
+for i in range(len(x)):
+    for j in range(h[i]):
+        d.append(x[i])
+print(np.mean(d))
+print(np.std(d))
