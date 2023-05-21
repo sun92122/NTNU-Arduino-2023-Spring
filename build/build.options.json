@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\sun92\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\sun92\\OneDrive\\文件\\Arduino\\libraries",
+  "sketchLocation": "D:\\GitHub\\NTNU-Arduino-2023-Spring\\test"
+}
